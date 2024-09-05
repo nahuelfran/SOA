@@ -163,3 +163,17 @@ Escribe `clear`clear y presiona `Enter`.
 ```bash
 clear
 ```
+
+---
+### 12. Comando: `touch`
+
+**¿Qué hace?**  
+Crea un archivo vacío o actualiza la fecha y hora de acceso/modificación de un archivo existente.
+
+**¿Cómo usarlo?**   
+Escribe `touch` seguido del nombre del archivo que deseas crear o actualizar.
+
+**Ejemplo de uso:**    
+```bash
+touch archivo.txt  # Crea un archivo vacío llamado archivo.txt.
+```
